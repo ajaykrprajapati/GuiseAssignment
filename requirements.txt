@@ -1,0 +1,11 @@
+Django==3.1.5
+djangorestframework==3.12.2
+PyJWT==2.0.0
+pytz==2020.5
+sqlparse==0.4.1
+djangorestframework-simplejwt
+pillow
+flake8
+bleach
+pre-commit
+black
